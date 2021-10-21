@@ -107,7 +107,7 @@ h1 {
     <a href="biography.php" type="button" class="btn btn-outline-primary waves-effect">Want to know more?</a>
   </div>
   <div class="split right">
-    <h1 class="font-weight-bold">Full Stack Programmer</h1>
+    <h1 class="font-weight-bold">front-end Programmer</h1>
     <a href="biography.php" type="button" class="btn btn-outline-danger waves-effect">Click Here</a>
 
   </div>
